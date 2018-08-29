@@ -1,0 +1,1 @@
+容器模块：是一个standlone,以Main的加载Spring启动，因为服务通常不需要TOMCAT/JBOSS等WEB容器特效，没必要用WEB容器去加载Spring。
